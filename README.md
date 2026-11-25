@@ -1,5 +1,7 @@
 # False-discovery-controlled screening of bimetallic alloy surfaces for hydrogen evolution
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24544501.svg)](https://doi.org/10.5281/zenodo.24544501)
+
 Code and data for a statistical screening study of bimetallic alloy surfaces for the
 hydrogen evolution reaction (HER). Candidate surfaces are shortlisted with conformal
 selection so that the false discovery rate (FDR) of the shortlist is controlled at a
@@ -57,7 +59,7 @@ The full screening takes about 3 CPU-hours on two cores. The notebooks run the s
 
 ## Citation
 
-If you use this code or data, please cite the archived release (see `CITATION.cff`; DOI on Zenodo).
+If you use this code or data, please cite the archived release: https://doi.org/10.5281/zenodo.24544501
 
 ## Licence
 
